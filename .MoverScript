@@ -1,23 +1,9 @@
-public class MoverScript: MonoBehavior
+using System;
+using unityEngine;
+
+public class MoverScript : MomoBehavior
 {
-    pulic float speed=5f;
-    private void Update()
-    {
-        thrownew NotImplementedException
-    }
+    public float speed = 5f;
 
-transform.Translate(x:speed, y:0, z:0)
-
+    
 }
-
-public class MoverScript: MonoBehavior
-{
-    drawbox (color) blue
-    drawbox (color) blue
-    drawbox (color) blue
-    newline ()
-    drawbox (color) pickrandom
-    drawbox (color) pickrandom
-    drawbox (color) pickrandom
-}
-
