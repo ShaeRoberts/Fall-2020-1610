@@ -20,3 +20,4 @@ public class MoverScript: MonoBehavior
     drawbox (color) pickrandom
     drawbox (color) pickrandom
 }
+
